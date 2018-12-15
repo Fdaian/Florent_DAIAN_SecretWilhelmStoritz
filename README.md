@@ -33,3 +33,31 @@ On utilisera pour cette étude les formes actives, qui sont ici plus pertinentes
 ![](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/img/stats-resume.JPG)
 
 ![](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/img/stats.JPG)
+
+**Nuages de mots**
+
+Prise en compte des 400 mots comptant le plus d'occurrences :
+
+![](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/img/nuage_mots_x400.JPG)
+
+Prise en compte des 200 mots comptant le plus d'occurrences :
+
+![](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/img/nuage_mots_x200.JPG)
+
+**Analyse de similitudes**
+
+![](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/img/arbre_occurrences.JPG)
+
+**Dendrogrammes**
+
+À 5 classes :
+
+![](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/img/dendrogramme_1.JPG)
+
+Les classes 1 et 5 paraissent peu pertinentes car trop vagues, voici un dendrogramme composé de 7 classes :
+
+![](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/img/dendrogramme_2.JPG)
+
+**AFC**
+
+![](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/img/afc.png)

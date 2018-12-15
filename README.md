@@ -1,4 +1,4 @@
-# DOSSIER : Jules Verne - *Le Secret de Wilhelm Storitz*
+﻿# DOSSIER : Jules Verne - *Le Secret de Wilhelm Storitz*
 
 Dossier d'analyse du texte de l'ouvrage de Jules Verne *Le Secret de Wilhelm Storitz* à l'aide d'Iramuteq
 
@@ -20,4 +20,4 @@ Il existe aussi une version numérisée d'un ouvrage illustré de 1910 sur *Gall
 
 Total des occurences :
 
-Formes actives seulement :
+Formes actives seulement : ui

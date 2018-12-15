@@ -4,9 +4,11 @@ Dossier d'analyse du texte de l'ouvrage de Jules Verne *Le Secret de Wilhelm Sto
 
 ### Versions texte et epub
 
-Version texte :
+Version texte : [Verne-Le_Secret_de_Wilhelm_Storitz.txt
+](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/texte/Verne-Le_Secret_de_Wilhelm_Storitz.txt)
 
-Version epub :
+Version epub : [Verne-Le_Secret_de_Wilhelm_Storitz.epub
+](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/texte/Verne-Le_Secret_de_Wilhelm_Storitz.epub)
 
 **Sources**
 
@@ -18,6 +20,16 @@ Il existe aussi une version numérisée d'un ouvrage illustré de 1910 sur *Gall
 
 ### Les fichiers CSV des occurrences
 
-Total des occurences :
+Total des occurences : [total.csv](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/csv/total.csv)
 
-Formes actives seulement : zefzefzefzef
+Formes actives seulement : [formes_actives.csv](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/csv/formes_actives.csv)
+
+### Visualisations de données
+
+On utilisera pour cette étude les formes actives, qui sont ici plus pertinentes.
+
+**Statistiques générales**
+
+![](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/img/stats-resume.JPG)
+
+![](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/img/stats.JPG)

@@ -1,8 +1,8 @@
-#DOSSIER : Jules Verne - *Le Secret de Wilhelm Storitz*
+# DOSSIER : Jules Verne - *Le Secret de Wilhelm Storitz*
 
 Dossier d'analyse du texte de l'ouvrage de Jules Verne *Le Secret de Wilhelm Storitz* à l'aide d'Iramuteq
 
-###Versions texte et epub
+### Versions texte et epub
 
 Version texte :
 
@@ -16,7 +16,7 @@ La version epub est disponible (ainsi qu'une version pdf) sur  [http://www.bouqu
 
 Il existe aussi une version numérisée d'un ouvrage illustré de 1910 sur *Gallica* [https://gallica.bnf.fr/ark:/12148/bpt6k56063663.r=verne%20wilhelm?rk=21459;2](https://gallica.bnf.fr/ark:/12148/bpt6k56063663.r=verne%20wilhelm?rk=21459;2).
 
-###Les fichiers CSV des occurrences
+### Les fichiers CSV des occurrences
 
 Total des occurences :
 

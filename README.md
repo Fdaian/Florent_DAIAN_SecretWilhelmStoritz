@@ -2,6 +2,8 @@
 
 Dossier d'analyse du texte de l'ouvrage de Jules Verne *Le Secret de Wilhelm Storitz* à l'aide d'Iramuteq
 
+> Question : [En quoi la digitalisation de l'oeuvre permet-elle d'envisager de nouvelles possibilités en Humanités Digitales ?](https://github.com/Fdaian/Florent_DAIAN_SecretWilhelmStoritz/blob/master/question.md)
+
 ### Versions texte et epub
 
 Version texte : [Verne-Le_Secret_de_Wilhelm_Storitz.txt

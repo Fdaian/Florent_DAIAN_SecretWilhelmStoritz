@@ -20,4 +20,4 @@ Il existe aussi une version numérisée d'un ouvrage illustré de 1910 sur *Gall
 
 Total des occurences :
 
-Formes actives seulement : ui
+Formes actives seulement : zefzefzefzef
